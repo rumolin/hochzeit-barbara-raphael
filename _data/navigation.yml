@@ -4,8 +4,8 @@
   url: /posts/
 - title: Reden
   url: /reden/
-#- title: Tags
-#  url: /tags/
+- title: Lösungen
+  url: /loesungen/
 - title: Rezepte
   url: /Rezepte/
 - title: Search

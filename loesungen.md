@@ -1,7 +1,7 @@
 ---
-title: Tag Archive
+title: Rätsellösungen
 layout: tags
-permalink: /tags/
+permalink: /loesungen/
 show_excerpts: true
 entries_layout: list
 ---
