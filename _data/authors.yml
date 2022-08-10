@@ -1,16 +1,15 @@
-# Sample Authors
-# Remove file or replace with your own
+# Authors
 
-Billy Rick:
-  name: Billy Rick
+Melanie Müller:
+  name: Melanie Müller
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+ # twitter: "@billyrick"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
+    - title: Github
+      url: https://github.com/rumolin
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+Adrian Humbel:
+  name: Adrian Humbel
+ # picture: /images/bio-photo.jpg
+ # twitter: corneliusfiddlebone
