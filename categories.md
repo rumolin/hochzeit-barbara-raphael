@@ -1,7 +1,7 @@
 ---
-title: Category Archive
+title: reden
 layout: categories
-permalink: /categories/
+permalink: /reden/
 show_excerpts: true
 entries_layout: list
 ---
