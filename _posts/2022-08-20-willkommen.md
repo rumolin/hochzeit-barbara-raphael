@@ -3,7 +3,7 @@ title: "Willkommen auf der hybriden Hochzeitszeitung"
 image: 
   path: /images/Cover.jpg
   thumbnail: /images/Cover-400x200.jpg
-  caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
+  # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 # categories:
 # - Layout
 # tags:
