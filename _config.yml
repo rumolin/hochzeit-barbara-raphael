@@ -20,7 +20,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Barbara & Raphael"
 description: "Die hybride Hochzeitszeitung"
-baseurl: "/so-simple-theme" # the subpath of your site, e.g. "/blog"
+baseurl: "/hochzeit-barbara-raphael" # the subpath of your site, e.g. "/blog"
 url: "https://rumolin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
