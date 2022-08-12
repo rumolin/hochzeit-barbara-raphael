@@ -14,7 +14,7 @@ entries_layout: list
 
 SAFE 
 
-7 - Sieben - S
-8 - Acht - A
-5 - Fünf - F
-1 - Eins - E
+7 - Sieben - S \n
+8 - Acht - A \n
+5 - Fünf - F \n
+1 - Eins - E \n

@@ -16,3 +16,5 @@ last_modified_at: 2022-08-20
 
 Während Barbaras Polterweekend haben wir lecker gekocht. Die Rezepte zu Vor- und Hauptgang sowie der Nachspeise findet ihr hier:
 Besonders empfehlen können wir das vegane Tatar von Jeannine! 
+
+[Hier gehts zu allen Rezepten](https://rumolin.github.io/hochzeit-barbara-raphael/rezepte/)

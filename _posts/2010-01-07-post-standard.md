@@ -14,4 +14,4 @@ image:
 last_modified_at: 2022-08-20
 ---
 
-Hier findet ihr die Lösung zu den Rätseln: 
+Hier findet ihr die Lösung zu den Rätseln: [Rätsellösungen](https://rumolin.github.io/hochzeit-barbara-raphael/loesungen/)

@@ -14,8 +14,4 @@ image:
 last_modified_at: 2022-08-20
 ---
 
-Die Meiers:
-
-Die Meyers:
-
-Jeannine & David: 
+Haben wir euch ertappt - ihr Gwundernasen. Es braucht noch etwas Geduld... 
