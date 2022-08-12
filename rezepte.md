@@ -13,8 +13,8 @@ entries_layout: grid
 
 ## Älplermagronen
 
-![Alplermagronen1](/images/alplermagronen1.png)
-![Alplermagronen2](/images/alplermagronen2.png)
+![Alplermagronen1](/images/älplermagronen1.png)
+![Alplermagronen2](/images/älplermagronen2.png)
 
 ## Mascarpone-Beeren-Creme
 
