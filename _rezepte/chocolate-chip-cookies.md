@@ -1,5 +1,6 @@
 ---
 title: "Vegetarisches Tatar"
+collection: Rezepte
 image: 
   path: /images/tatar.jpg
   thumbnail: /images/tatar.jpg
