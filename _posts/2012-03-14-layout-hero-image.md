@@ -14,5 +14,5 @@ image:
 last_modified_at: 2022-08-20
 ---
 
-Willkommen auf der Website zur Hochzeitszeitung von Barbara und Raphael. Hier findet ihr Rezepte, die Lösungen zu den Rätseln und als Highlight die Reden vom Fest. 
+Willkommen auf der Website zur Hochzeitszeitung von Barbara und Raphael. Hier findet ihr Rezepte und die Lösungen zu den Rätseln. 
 Viel Vergnügen!
